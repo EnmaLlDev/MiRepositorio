@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Obras de Søren Kierkegaard</title>
+  <link href="https://example.com/kierkegaard-works" rel="self"/>
+  <id>https://example.com/kierkegaard-works</id>
+  <updated>2024-12-14T12:00:00Z</updated>
+  <author>
+    <name>Admin</name>
+  </author>
+  <entry>
+    <title>O lo uno o lo otro</title>
+    <link href="https://example.com/o-lo-uno-o-lo-otro"/>
+    <id>https://example.com/o-lo-uno-o-lo-otro</id>
+    <updated>2024-12-14T12:00:00Z</updated>
+    <summary>Un análisis sobre la elección entre los modos de vida ético y estético.</summary>
+  </entry>
+  <entry>
+    <title>Temor y temblor</title>
+    <link href="https://example.com/temor-y-temblor"/>
+    <id>https://example.com/temor-y-temblor</id>
+    <updated>2024-12-13T10:30:00Z</updated>
+    <summary>Una reflexión sobre la fe a través del sacrificio de Abraham.</summary>
+  </entry>
+  <entry>
+    <title>La repetición</title>
+    <link href="https://example.com/la-repeticion"/>
+    <id>https://example.com/la-repeticion</id>
+    <updated>2024-12-12T15:45:00Z</updated>
+    <summary>Un estudio sobre la repetición como concepto existencial y filosófico.</summary>
+  </entry>
+  <entry>
+    <title>El concepto de la angustia</title>
+    <link href="https://example.com/el-concepto-de-la-angustia"/>
+    <id>https://example.com/el-concepto-de-la-angustia</id>
+    <updated>2024-12-11T09:00:00Z</updated>
+    <summary>Una exploración filosófica sobre la angustia como resultado de la libertad humana.</summary>
+  </entry>
+</feed>

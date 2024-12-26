@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Obras de Friedrich Nietzsche</title>
+    <link>https://example.com/nietzsche-works</link>
+    <description>Exploración de las principales obras de Friedrich Nietzsche</description>
+    <item>
+      <title>Así habló Zaratustra</title>
+      <link>https://example.com/asi-hablo-zaratustra</link>
+      <description>Una obra filosófica clave donde Nietzsche introduce el concepto del superhombre y el eterno retorno.</description>
+      <pubDate>Sat, 14 Dec 1883 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Más allá del bien y del mal</title>
+      <link>https://example.com/mas-alla-del-bien-y-del-mal</link>
+      <description>Un examen crítico de la moral tradicional y los prejuicios filosóficos de la época.</description>
+      <pubDate>Fri, 13 Dec 1886 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La genealogía de la moral</title>
+      <link>https://example.com/la-genealogia-de-la-moral</link>
+      <description>Un análisis de los orígenes de los valores morales y su impacto en la humanidad.</description>
+      <pubDate>Thu, 12 Dec 1887 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El anticristo</title>
+      <link>https://example.com/el-anticristo</link>
+      <description>Una crítica radical al cristianismo y los valores que representa.</description>
+      <pubDate>Wed, 11 Dec 1888 09:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
